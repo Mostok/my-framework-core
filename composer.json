@@ -1,7 +1,7 @@
 {
     "name": "mostok/my-framework-core",
     "description": "A short description of what your package does",
-    "license": "GNU-3.0-only",
+    "license": "GPL-3.0-or-later",
     "require": {
         "php": ">=7.4"
     }
